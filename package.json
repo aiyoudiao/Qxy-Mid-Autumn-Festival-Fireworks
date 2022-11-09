@@ -1,8 +1,8 @@
 {
-  "name": "qy-mind-autumn-festival-fireworks",
+  "name": "qxy-mind-autumn-festival-fireworks",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://aiyoudiao.github.io/Qy-Mid-Autumn-Festival-Fireworks",
+  "homepage": "https://aiyoudiao.github.io/Qxy-Mid-Autumn-Festival-Fireworks",
   "type": "module",
   "scripts": {
     "dev": "vite",
